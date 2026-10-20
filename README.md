@@ -55,8 +55,8 @@ Cha and Kim surveyed 252 students to understand their preferences for study envi
 All members will share responsibilities across the project, including data collection, modeling, evaluation, and report writing. Each member will have a primary focus while contributing to other areas:
 
 - **Tiange Zhao:** Data collection and preparation, report writing.
-- **Ethan Wang:** Search and ranking algorithms, modeling, evaluation.
-- **Shengyuan Guo:** Website development, usability testing.
+-  Search and ranking algorithms, modeling, evaluation.
+-  Website development, usability testing.
 
 ## References
 
